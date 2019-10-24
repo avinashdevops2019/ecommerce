@@ -3,5 +3,3 @@ This is an ecomm project
 This contains files related to ecommerce
 
 This site has all valuable products
-
-Amazon & Flipkart products are serviced here
